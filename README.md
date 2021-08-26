@@ -1,9 +1,7 @@
 # tft_set5_Reroll_data
 Rerolling data extracted from TFT
 
-I made a bot that rerolled 1000 times.
-
-Reroll amount: 1000
+Rerolls amount: ~1000
 
 Player level: 4
 
