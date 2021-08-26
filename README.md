@@ -13,9 +13,9 @@ Since I already have champions, the data is biased, but I did that on purpose.
 
 # -
 
-The file array.txt contain the obtained champions in order. So every 4 lines is a reroll.
+The array.txt file contains the obtained champions in order. So every 4 lines is a reroll.
 
-Data has also been obtained via tutorial, so percentages might be different from online. (you figure out if data is close enought)
+Data has also been obtained via tutorial, so percentages might be different from online. (you figure out if data is close enough)
 
 # -
 
