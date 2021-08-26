@@ -5,7 +5,7 @@ Rerolls amount: ~1000
 
 Player level: 4
 
-Champions in bank: Kha'Zix (lvl. 3) - Soraka (lvl. 3) - Kled (lvl 3) - Gragas (lvl 3)
+Champions in bank: Kha'Zix (lvl. 3) - Soraka (lvl. 3) - Kled (lvl 3) - Gragas (lvl 3)  --> setup: https://i.imgur.com/kaJVFe8.png
 
 Since I already have champions, the data is biased, but I did that on purpose.
 
